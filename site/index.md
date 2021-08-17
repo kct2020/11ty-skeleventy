@@ -1,13 +1,27 @@
 ---
 layout: home
 meta_title: Home
-meta_description: Skeleventy gives you a rock solid foundation to build fast and accessible static websites.
-title: An Eleventy starter skeleton
-sub_heading: Skeleventy gives you a rock solid foundation to build fast and accessible static websites.
+meta_description: PROSPRA Activity Arranger - 7 Step Problem Solver & Task Organizer
+title: PROSPRA
+sub_heading: PROSPRA Activity Arranger - 7 Step Problem Solver & Task Organizer.
 eleventyNavigation:
   key: Home
   order: 1
 ---
+
+## PROSPRA is Under Construction
+
+This is a working version of the PROSPRA home page.
+
+Current progress is: Testing installation routine.
+
+Todo: list to follow
+
+The original template home page continues below...
+
+***
+
+## Original Skeleventy Home page...
 
 ## Features
 

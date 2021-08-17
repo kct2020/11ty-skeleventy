@@ -1,3 +1,33 @@
+# Keith's Heading
+
+Project notes here with original README below. Then I'll rewrite this if it works. Initially, I want to: 
+- change repository name to include prospra
+- understand the author handle setting in Skeleventy template /site/globals/site.json (currently changed from @joe_dyer1 to @keithtaylor)
+- add favicon png and svg files referred to in site.json
+- configure package.json
+- deploy to Cloudflare Pages. 
+
+Then later:
+- create useful 404 page
+- add PWA capabilities, including push notifications (OneSignal).
+Amend this todo list as project progresses. Adding detailed notes below with latest changes first
+
+## yymm02a Branch3
+
+## yymmddb Branch2
+
+## yymmdda 1st Config
+Usually, I create a 1st Config branch to get a working site with config changes as per original README instructions and note files changed with any additional notes. Most of this detail is deleted from final README but it serves to keep track of installation progress.
+For this Skeleventy template, there are no step-by-step installation instructions. But I've searched for 'url' and found some config info at
+- /site/globals/site.json
+- menu.json
+- site.js
+
+***
+
+## Original Skeleventy README...
+
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f4455669-0ce8-40ea-8ff5-5c31f0aadfa5/deploy-status)](https://app.netlify.com/sites/skeleventy/deploys)
 
 # An Eleventy starter skeleton
