@@ -12,11 +12,10 @@ Then later:
 - add PWA capabilities, including push notifications (OneSignal).
 Amend this todo list as project progresses. Adding detailed notes below with latest changes first
 
-## yymm02a Branch3
+## 210818 Abandoned
+I screwed up by trying to run this through Gitpod using my "tech" repo which was linked here. But while trying to restart, I realized this template is more complicated than I need. So although it looks nice, it has a lot of bloat that I don't want. So I'm going to restart with a simple template. Then I can "borrow" code from templates like this as I add the features that I want.
 
-## yymmddb Branch2
-
-## yymmdda 1st Config
+## 210817 1st Config
 Usually, I create a 1st Config branch to get a working site with config changes as per original README instructions and note files changed with any additional notes. Most of this detail is deleted from final README but it serves to keep track of installation progress.
 For this Skeleventy template, there are no step-by-step installation instructions. But I've searched for 'url' and found some config info at
 - /site/globals/site.json
